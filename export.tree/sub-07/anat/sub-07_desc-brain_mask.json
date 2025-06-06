@@ -1,7 +1,0 @@
-{
-  "RawSources": [
-    "sub-07/anat/sub-07_run-1_T1w.nii.gz",
-    "sub-07/anat/sub-07_run-2_T1w.nii.gz"
-  ],
-  "Type": "Brain"
-}
